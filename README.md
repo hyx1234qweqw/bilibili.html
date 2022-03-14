@@ -5,8 +5,8 @@
 </head>
 
 <body>
-<h1>Hello Adalab</h1>
-<p>This is the first page I made at Adalab.</p>
+<h1>这是一个关于哔哩哔哩的网站</h1>
+<p>This is the first page I made at YaoXinHuang.</p>
 </body>
 
 </html>
