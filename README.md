@@ -19,3 +19,4 @@
 这是为Adalab挑战赛制作的网站<a href="https://stock.tuchong.com"><img src="https://www.adalab.cn/images/adalab.png">
 </a>
 </p>
+<iframe src="//player.bilibili.com/player.html?aid=798694555&bvid=BV1ty4y1m7pZ&cid=282054957&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
